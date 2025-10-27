@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... getting my bachlor degree
-- 🌱 I’m currently learning ... programming languagge
+- 🔭 I’m currently working on ... Getting my bachlor degree
+- 🌱 I’m currently learning ... Programming Languagge
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... codding 
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... thru here
-- 😄 Pronouns: ...
+- 📫 How to reach me: ... Thru here
+- 😄 Pronouns: ...Her
 - ⚡ Fun fact: ... favorite color is purple
 -->
