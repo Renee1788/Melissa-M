@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Getting my bachlor degree
-- 🌱 I’m currently learning ... Programming Languagge
+- 🌱 I’m currently learning ... Operating Platforms
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... codding 
+- 🤔 I’m looking for help with ... building my skills in IT
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... Thru here
 - 😄 Pronouns: ...Her
