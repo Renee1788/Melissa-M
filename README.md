@@ -1,18 +1,12 @@
 ## Hi there 👋
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-In developing documentation for The Gaming Room client, who wanted to transform their Android game "Draw It or Lose It" into a cross-platform web-based application supporting multiple simultaneous players.
+How do I interpret user needs and implement them into a program?
 
-What did you do particularly well in developing this documentation?
-I particularly excelled at providing comprehensive platform comparisons and clearly structured technical requirements that made complex information accessible to all stakeholders.
+How does creating “user stories” help with this? &nbsp;Interpreting user needs means going beyond what someone says they want to uncover what they actually need, using techniques like interviews, observation, and pain point analysis. User stories help formalize this by capturing needs in the format "As a [user], I want to [do something], so that [I achieve a goal]," keeping the who, what, and why in focus and breaking large requirements into small, testable pieces.
 
-What about the process of working through a design document did you find helpful when developing the code?
-The design document process proved invaluable by forcing upfront consideration of architectural decisions, scalability concerns, and security requirements before coding began, which prevented costly mid-development revisions and ensured team alignment.
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-If I could revise one aspect, I would expand the security section to include more detailed protocols, encryption standards, threat modeling, and compliance requirements with supporting architecture diagrams.
+&nbsp;Agile development builds on this by embracing change through short sprint cycles, daily stand ups, backlog grooming, retrospectives, and a clear definition of done all designed to create tight feedback loops and keep the team responsive to reality.
 
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-I interpreted user needs by carefully analyzing both The Gaming Room's business objectives and player expectations, translating these into design decisions that prioritized responsive performance, intuitive interfaces, and reliable multi-player functionality—an essential focus because software that doesn't serve its intended audience fails regardless of technical quality.
+What does it mean to be a good team member in software development?
 
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-My design approach involved systematic requirements gathering, platform evaluation, and architectural planning, and in future projects I would employ additional strategies including design patterns like microservices, UML diagrams for visualization, iterative prototyping, agile methodologies, stakeholder interviews, user personas, and detailed use case scenarios to ensure designs remain grounded in real user needs and business objectives.
+Being a good team member ties it all together communicating proactively, reviewing code generously, documenting your thinking, owning your work end to end, and elevating the people around you. The common thread across all of it is empathy for users, for teammates, and for whoever maintains the code next.
